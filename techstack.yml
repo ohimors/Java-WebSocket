@@ -1,7 +1,8 @@
 repo_name: ohimors/Java-WebSocket
 report_id: d94246c84e63bb8834ed62481d4b022b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T00:24:24+00:00'
+timestamp: '2024-01-05T08:47:27+00:00'
 requested_by: Davidiusdadi
 provider: github
 branch: master
@@ -17,8 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
-  detection_source_url: pom.xml
-  detection_source: pom.xml
+  detection_source_url: https://github.com/ohimors/Java-WebSocket/blob/master/pom.xml
+  detection_source: Repo Metadata
   last_updated_by: David
   last_updated_on: 2013-04-23 23:37:32.000000000 Z
 - name: JavaScript
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/Java-WebSocket
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -39,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/Java-WebSocket
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -49,7 +52,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: gradlew.bat
+  detection_source_url: https://github.com/ohimors/Java-WebSocket/blob/master/build.gradle
+  detection_source: build.gradle
   last_updated_by: Eli Ezeugoh
   last_updated_on: 2013-02-13 02:05:11.000000000 Z
 - name: Travis CI
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ohimors/Java-WebSocket/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Eli Ezeugoh
   last_updated_on: 2013-02-13 02:05:41.000000000 Z
